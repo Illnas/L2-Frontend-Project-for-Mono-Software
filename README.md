@@ -5,6 +5,17 @@ This is finished assignment for Mono Software with Firebase/Firestore and with R
 I have not been able to implement MobX due to my lack of knowledge and experience of MobX.
 
 
+
+
+
+
+
+
+
+
+
+
+
 P.S. 
 Since I am pretty sure they will not read this, I can focus on my plans and finding/dealing with my mistakes :D
 
